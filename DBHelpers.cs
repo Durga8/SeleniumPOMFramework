@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
+//Initial Comments
 namespace SeleniumFrameWork.Helpers
 {
     public static class DBHelpers
